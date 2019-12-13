@@ -1,0 +1,22 @@
+{
+  "name": "heroku-gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rphl-snts/heroku-gitlab.git"
+  },
+  "author": "Raphael Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rphl-snts/heroku-gitlab/issues"
+  },
+  "homepage": "https://github.com/rphl-snts/heroku-gitlab#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
